@@ -2,7 +2,7 @@ package com.example.tacocloud.domain;
 
 import org.omg.CORBA.PUBLIC_MEMBER;
 
-import lomback.Data;
+//import lomback.Data;
 public class Ingredient {
     private final String id;
     public String getId() {
